@@ -12,5 +12,5 @@ This project aims to use the Principal Component Analysis (PCA) method to analyz
 ## Project 4: Classifying Digits from the MNIST Data Set
 This project aims to first perform an SVD analysis of the digit images from the MNIST data set, then use Linear Discriminant Analysis (LDA), support vector machines (SVM), and decision tree classifiers to identify individual digits in the training set and classify digits in the testing set.
 
-## Project 5: Dynamic Mode Decomposition of Video Streams for Foreground-Background Separation
+## Project 5: Background Subtraction in Video Streams
 This project aims to use the Dynamic Mode Decomposition method on the video clips to separate the video stream to both the moving objects in the foreground video and a static background.
