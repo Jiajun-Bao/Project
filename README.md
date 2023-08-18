@@ -13,3 +13,6 @@ This project aims to first perform an SVD analysis of the digit images from the 
 
 ## Project 5: Dynamic Mode Decomposition of Video Streams for Foreground-Background Separation
 This project aims to use the Dynamic Mode Decomposition method on the video clips to separate the video stream to both the moving objects in the foreground video and a static background.
+
+## Project 6: Evaluation of MALA and RWMH in Approximating Diverse Probability Distributions
+This project explores the Metropolis Adjusted Langevin Algorithm (MALA) and compares it with the Random Walk Metropolis-Hastings (RWMH) in approximating Gaussian, multimode, and high-dimensional probability distribution settings. The project also studies the importance of optimal discretization step size in MALA.
