@@ -8,7 +8,7 @@ This project aims to reproduce the music score for the guitar in the two clips o
 ## Project 3: PCA-Based Motion Analysis of Spring-Mass Systems Using Multi-Angled Video
 This project aims to use the Principal Component Analysis (PCA) method to analyze the different datasets from videos of a spring-mass system recorded from cameras at three different angles. For each camera angle, we are provided with four separate cases. One of them is the ideal case, and the other ones have different variations, such as camera shakes. We will use PCA to compare and contrast the different instances.
 
-## Project 4: Classifying Digits from the MNIST Data Set
+## Project 4: SVD Analysis and LDA-based Classification of MNIST Digit Images
 This project aims to first perform an SVD analysis of the digit images from the MNIST data set, then use Linear Discriminant Analysis (LDA), support vector machines (SVM), and decision tree classifiers to identify individual digits in the training set and classify digits in the testing set.
 
 ## Project 5: Dynamic Mode Decomposition of Video Streams for Foreground-Background Separation
