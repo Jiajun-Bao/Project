@@ -1,4 +1,5 @@
 # Data-Analysis-and-Machine-Learning
+Note: Projects 1-5 were completed during my undergraduate studies at the University of Washington, and Project 6 was completed during my master’s studies at the University of Chicago.
 ## Project 1: Submarine Detection Using Discrete Fourier Transform and Noise Filtering Techniques
 This project solves a submarine radar detection problem, using noisy acoustic data obtained over a 24-hour period in half-hour increments to determine the moving submarine’s location and path and identify the acoustic admissions of the submarine.
 
